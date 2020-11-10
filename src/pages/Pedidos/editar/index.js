@@ -91,9 +91,9 @@ class EditarPedidos extends Component {
                             <br />
                             <input
                                 type="text"
-                                id="nomeProduto"
-                                name="nomeProduto"
-                                placeholder="nomeProduto"
+                                id="Produto"
+                                name="nProduto"
+                                placeholder="Produto"
                                 required
                                 value={this.state.pedidos.nomeProduto}
                                 onChange={this.handleInputChange}

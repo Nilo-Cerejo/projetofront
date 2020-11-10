@@ -36,7 +36,7 @@ export default class Main extends Component {
                             <th scope="col">#</th>
                             <th scope="col">Nome</th>
                             <th scope="col">Telefone</th>
-                            <th scope="col">nomeProduto</th>
+                            <th scope="col">Produto</th>
                             <th scope="col">quantidade</th>
                             
                         </tr>
