@@ -30,7 +30,7 @@ export default class Pedidos extends Component {
             <div className="pedidos-info">
                 <h1> {pedidos.nome} </h1>
                 <h1> {pedidos.telefone} </h1>
-                <h1> {pedidos.nomeProduto} </h1>
+                <h1> {pedidos.Produto} </h1>
                 <h1> {pedidos.quantidade} </h1>
                 
                 <br />
