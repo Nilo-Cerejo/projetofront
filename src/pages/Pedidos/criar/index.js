@@ -79,9 +79,9 @@ class CriarPedidos extends Component {
                             <br/>
                             <input
                                     type="text"
-                                    id="Produto"
-                                    name="Produto"
-                                    placeholder="Produto"
+                                    id="nomeProduto"
+                                    name="nomeProduto"
+                                    placeholder="nomeProduto"
                                     required
                                     value={this.state.pedidos.nomeProduto}
                                     onChange={this.handleInputChange}
